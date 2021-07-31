@@ -9,5 +9,5 @@ Free to use for commercial and non-commercial purposes 💯 <br>
 No permission needed (though attribution is appreciated!🥰)
 
 
-**Demo:** [Soon]() <br>
+**Demo:** [Live Demo](https://mrsohail.one/projects/demos/wallapp/) <br>
 **Clone:** `https://github.com/sohailsarwar101/wallapp.git`
