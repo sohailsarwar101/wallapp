@@ -10,4 +10,4 @@ No permission needed (though attribution is appreciated!🥰)
 
 
 **Demo:** [Soon]() <br>
-**Clone:** ``
+**Clone:** `https://github.com/sohailsarwar101/wallapp.git`
