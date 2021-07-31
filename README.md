@@ -5,5 +5,5 @@ Wallapp offers 3 random wallpapers for both mobile and desktop resolution on eve
 
 I just initiate it for learning and testing purposes, maybe later on I will utilize it for sharing my own Unsplash images collection separately. Of course, you can do the same as well, as I share it as an open-source here.
 
-Free to use for commercial and non-commercial purposes 💯
+Free to use for commercial and non-commercial purposes 💯 <br>
 No permission needed (though attribution is appreciated!🥰)
