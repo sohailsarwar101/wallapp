@@ -296,7 +296,7 @@ footer .themer a {
   color: var(--text-color);
   padding: 30px;
   background-color: var(--page-bg-color);
-  border-radius: 16px;
+  overflow-y: auto;
 }
 
 .overlay-content h3 {
@@ -332,4 +332,11 @@ footer .themer a {
 
 .overly-header span:hover {
   background-color: var(--text-color-muted-xx);
+}
+
+
+@media only screen and (max-width: 600px) {
+  .overlay-content {
+    max-height: 80%;
+  }
 }
